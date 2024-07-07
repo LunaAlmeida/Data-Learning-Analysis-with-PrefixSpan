@@ -1,0 +1,9 @@
+pandas
+numpy
+spmf-py
+matplotlib
+plotly
+graphviz
+networkx
+python-igraph
+pygraphviz
